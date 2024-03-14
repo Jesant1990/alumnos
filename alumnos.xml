@@ -1,0 +1,23 @@
+<alumnos>
+    <alumno>
+        <carnet>2021001</carnet>
+        <nombre>Juan</nombre>
+        <apellido>Pérez</apellido>
+        <edad>22</edad>
+        <correo>juan.perez@example.com</correo>
+    </alumno>
+    <alumno>
+        <carnet>2021002</carnet>
+        <nombre>Maria</nombre>
+        <apellido>González</apellido>
+        <edad>23</edad>
+        <correo>maria.gonzalez@example.com</correo>
+    </alumno>
+    <alumno>
+        <carnet>2021003</carnet>
+        <nombre>Carlos</nombre>
+        <apellido>Ruiz</apellido>
+        <edad>21</edad>
+        <correo>carlos.ruiz@example.com</correo>
+    </alumno>
+</alumnos>

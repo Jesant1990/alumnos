@@ -1,0 +1,25 @@
+[
+{
+    "Carnet": "2021001",
+    "Nombres": "Juan",
+    "Apellidos":"Pérez",
+    "Edad": "22",
+    "Correo Electrónico": "juan.perez@example.com"
+},
+
+{
+    "Carnet": "2021002",
+    "Nombres": "Maria",
+    "Apellidos":"González",
+    "Edad": "23",
+    "Correo Electrónico": "maria.gonzalez@example.com"
+},
+
+{
+    "Carnet": "2021003",
+    "Nombres": "Carlos",
+    "Apellidos":"Ruiz",
+    "Edad": "21",
+    "Correo Electrónico": "carlos.ruiz@example.com"
+}
+]
